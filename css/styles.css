@@ -168,6 +168,8 @@ p{
     position: relative;
     transform: rotate(0);
   }
+  .cta-heading{
+    white-space: normal;
 }
 
 
